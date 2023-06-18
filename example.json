@@ -1,0 +1,10 @@
+{
+  "asd": "bg",
+  "name": "John Doe",
+  "obj": {
+    "name": "Ivan Doe"
+  },
+  "hehe": {
+    "name": [1,2,3]
+  }
+}
